@@ -23,7 +23,6 @@
     [self changeAppIcon];
 }
 
-
 - (void)changeAppIcon
 {
     NSMutableArray *icomNameArray = [NSMutableArray arrayWithObjects:@"newIcon0",@"newIcon1",@"newIcon2", nil];
